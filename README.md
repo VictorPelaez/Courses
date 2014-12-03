@@ -1,4 +1,4 @@
-Rprogramming
+Programming 
 ============
 
-Codes in R language
+Codes used in courses
